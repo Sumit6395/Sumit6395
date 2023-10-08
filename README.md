@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sumit6395
-- 👀 I’m interested in Web development,C,Trading
+- 👀 I’m interested in Web development, DSA , Photoshop, C,Trading
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on web Dev team
 - 📫 you can reach me with my E-mail ID 2021ume1452@mnit.ac.in
